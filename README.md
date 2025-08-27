@@ -12,8 +12,7 @@
 
 ## 📂 Projects
 - [Gender Equality Awareness Website](#) – Awareness platform built with HTML, CSS, JavaScript  
-- [Water Problem Mapping App (Hackathon Idea)](#) – Crowdsourcing tool for community issues  
-- [Numerical Methods Programs](#) – Python implementations of Newton-Raphson, curve fitting  
+- [Water Problem Mapping App (Hackathon Idea)](#) – Crowdsourcing tool for community issues   
 
 ## 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/muppuri-keerthi-lahari)  
