@@ -8,7 +8,7 @@
 ## 🔧 Skills
 - **Languages:** Java, Python, C, SQL  
 - **Web Development:** HTML, CSS, JavaScript  
-- **Concepts:** OOPS, Data Structures, DBMS, Numerical Methods  
+- **Concepts:** OOPS, Data Structures, DBMS 
 
 ## 📂 Projects
 - [Gender Equality Awareness Website](#) – Awareness platform built with HTML, CSS, JavaScript  
